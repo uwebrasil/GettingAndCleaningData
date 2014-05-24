@@ -7,8 +7,8 @@ Repo for Coursera Course Project Getting and Cleaning Data  John Hopkins
 Variables and Description
 -------------------------
 
--"tBodyAccmeanX"            TESTe
--"tBodyAccmeanY"
+-"tBodyAccmeanX"            TESTe<br>
+-"tBodyAccmeanY"            TEST2<br>
 -"tBodyAccmeanZ"
 -"tBodyAccstdX"
 -"tBodyAccstdY"
